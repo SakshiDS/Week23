@@ -2,14 +2,14 @@
 
 #### Homepage 
 ##### Displays all the records
-![homepage](https://user-images.githubusercontent.com/90784468/156877360-e6f24d8a-5ee7-438c-9fcd-06030e6d820e.PNG)
+![image](https://user-images.githubusercontent.com/90784468/156877562-fc4a9e63-3c55-4660-a872-f6124c5796c6.png)
 
 #### Create 
 ##### Displays form to add a new entry
 * Here I add an entry for the show "SharkTank" and I leave the year column entry. We will see later how I use update function to add the year data.
-![homepage](https://user-images.githubusercontent.com/90784468/156877381-1d9a96fc-20f0-4336-a466-a32db2a77e7e.PNG)
+![insert](https://user-images.githubusercontent.com/90784468/156877581-3bf99c32-20ea-49ca-8331-62e407d4306f.PNG)
 ##### New entry displayed on homepage
-![homepage](https://user-images.githubusercontent.com/90784468/156877392-e7f3a0f5-4e77-49c7-bb15-57f233bbbc26.PNG)
+![post_insert](https://user-images.githubusercontent.com/90784468/156877592-b0448e4d-9726-4229-aea2-66bbc0cc6535.PNG)
 
 #### Update
 ##### Displays form to update an existing entry
