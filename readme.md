@@ -22,5 +22,5 @@
 ### Displays the form to enter the name of the record to query for deletion
 ![image](https://user-images.githubusercontent.com/90784468/156877498-674abf07-65f4-4eb4-ac6e-091df1ba6db5.png)
 ![Delete](https://user-images.githubusercontent.com/90784468/156877510-09c31356-fe75-43e2-a436-1da5b66d9d6a.PNG)
-##### Entries displayed on homepage post deletion
+### Entries displayed on homepage post deletion
 ![post_del](https://user-images.githubusercontent.com/90784468/156877524-505bba82-13f0-49cb-a644-48e4a8e4db62.PNG)
